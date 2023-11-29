@@ -8,12 +8,7 @@ const Route = {
   GET_DATA : '/data',
   SEND_DATA : '/',
 };
-/*
-const HttpMethod = {
-  GET: 'GET',
-  POST: 'POST',
-};
-*/
+
 const DOWNLOAD_ERROR_TEXT = 'Не удалось загрузить данные. Попробуйте обновить страницу';
 
 const getData = () =>
